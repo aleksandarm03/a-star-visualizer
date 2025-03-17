@@ -1,7 +1,8 @@
 # A* Algorithm Visualization
 
 Ovaj projekat omogućava vizualizaciju A* algoritma za pretragu puta kroz lavirint. Aplikacija omogućava korisnicima da prate kretanje algoritma u stvarnom vremenu, birajući različite heuristike za računanje puta. Takođe, korisnici mogu dinamički menjati lavirint dodajući ili uklanjajući zidove pomoću jednostavnog interfejsa.
-
+# LIVE PREVIEW
+https://aleksandarm03.github.io/a-star-visualizer/
 ## Funkcionalnosti
 
 - Vizualizacija A* algoritma u realnom vremenu.
